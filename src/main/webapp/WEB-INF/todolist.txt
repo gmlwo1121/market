@@ -1,0 +1,2 @@
+# Home Section
+home=com.market.controller.HomeController
