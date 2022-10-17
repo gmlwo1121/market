@@ -1,2 +1,19 @@
 # Home Section
 home=com.market.controller.HomeController
+# Member Section
+meLogin=com.market.controller.member.MemberLoginController
+meLogout=com.market.controller.member.MemberLogoutController
+meInsert=com.market.controller.member.MemberInsertController
+meUpdate=com.market.controller.member.MemberUpdateController
+meDetail=com.market.controller.member.MemberDetailController
+mepage=com.market.controller.member.MemberPageController
+meDelete=com.market.controller.member.MemberDeleteController
+#meList=com.market.controller.member.MemberlistController
+#meIdcheck=com.market.controller.member.MemberIdcheckController
+# CustomerSection
+#cuinsert=com.market.controller.customer.CustomerInsertController
+#cuupdate=com.market.controller.customer.CustomerUpdateController
+#cudetail=com.market.controller.customer.CustomerDetailController
+#cudelete=com.market.controller.customer.CustomerDeleteController
+culist=com.market.controller.customer.CustomerlistController
+#cureply=com.market.controller.customer.CustomerReplyController
